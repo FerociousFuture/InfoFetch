@@ -26,4 +26,5 @@
 
 * Clona este repositorio en una carpeta.
 * Utiliza chmod +x Dependencias.sh y luego ejecutalo para instalar todas las dependencias automaticamente.
+* Agrega el script a la configuración por defecto de tu terminal para inicarlo cada vez que abras una terminal.
 
