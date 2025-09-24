@@ -9,9 +9,8 @@
 ## Características Principales
 
 * **Información del Sistema:** Muestra tu usuario, nombre de host, sistema operativo, kernel, shell, tiempo de actividad, CPU y memoria RAM.
-* **Música en Reproducción:** Si tienes `playerctl` instalado, muestra la canción actual con el título, artista y el ícono de play/pausa.
-* **Visualización Atractiva:** Utiliza `chafa` para convertir una imagen personalizada en arte de caracteres, lo que le da un toque único a tu terminal.
-* **Fácil de Usar:** La configuración se maneja a través de un simple archivo `config.conf` y utiliza rutas relativas, lo que lo hace muy portátil.
+* **Música en Reproducción:** 
+* **Fácil de Usar:** 
 
 ---
 
