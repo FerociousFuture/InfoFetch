@@ -25,5 +25,9 @@
 
 * Clona este repositorio en una carpeta.
 * Utiliza chmod +x Dependencias.sh y luego ejecutalo para instalar todas las dependencias automaticamente.
-* Agrega el script a la configuración por defecto de tu terminal para inicarlo cada vez que abras una terminal.
+
+### Uso del programa
+
+* Usa chmod +x infofetch.sh para poder ejecutarlo
+* Agrega la direción del ejecutable a el archivo raiz de tu terminal (Ejemplo: .zshrc) desde la carpeta raiz.
 
